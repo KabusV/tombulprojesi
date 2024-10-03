@@ -1,0 +1,15 @@
+C:\Users\Emir KARAKURT.DESKTOP-ACEKEUP\source\repos\EKARAKURT\EKARAKURT\bin\Debug\EKARAKURT.exe.config
+C:\Users\Emir KARAKURT.DESKTOP-ACEKEUP\source\repos\EKARAKURT\EKARAKURT\bin\Debug\EKARAKURT.exe
+C:\Users\Emir KARAKURT.DESKTOP-ACEKEUP\source\repos\EKARAKURT\EKARAKURT\bin\Debug\EKARAKURT.pdb
+C:\Users\Emir KARAKURT.DESKTOP-ACEKEUP\source\repos\EKARAKURT\EKARAKURT\obj\Debug\EKARAKURT.csproj.AssemblyReference.cache
+C:\Users\Emir KARAKURT.DESKTOP-ACEKEUP\source\repos\EKARAKURT\EKARAKURT\obj\Debug\EKARAKURT.frmMüşteriEkle.resources
+C:\Users\Emir KARAKURT.DESKTOP-ACEKEUP\source\repos\EKARAKURT\EKARAKURT\obj\Debug\EKARAKURT.frmSatis.resources
+C:\Users\Emir KARAKURT.DESKTOP-ACEKEUP\source\repos\EKARAKURT\EKARAKURT\obj\Debug\EKARAKURT.Properties.Resources.resources
+C:\Users\Emir KARAKURT.DESKTOP-ACEKEUP\source\repos\EKARAKURT\EKARAKURT\obj\Debug\EKARAKURT.csproj.GenerateResource.cache
+C:\Users\Emir KARAKURT.DESKTOP-ACEKEUP\source\repos\EKARAKURT\EKARAKURT\obj\Debug\EKARAKURT.csproj.CoreCompileInputs.cache
+C:\Users\Emir KARAKURT.DESKTOP-ACEKEUP\source\repos\EKARAKURT\EKARAKURT\obj\Debug\EKARAKURT.exe
+C:\Users\Emir KARAKURT.DESKTOP-ACEKEUP\source\repos\EKARAKURT\EKARAKURT\obj\Debug\EKARAKURT.pdb
+C:\Users\Emir KARAKURT.DESKTOP-ACEKEUP\source\repos\EKARAKURT\EKARAKURT\obj\Debug\EKARAKURT.frmMüşteriListele.resources
+C:\Users\Emir KARAKURT.DESKTOP-ACEKEUP\source\repos\EKARAKURT\EKARAKURT\obj\Debug\EKARAKURT.frmKategori.resources
+C:\Users\Emir KARAKURT.DESKTOP-ACEKEUP\source\repos\EKARAKURT\EKARAKURT\obj\Debug\EKARAKURT.frmMarka.resources
+C:\Users\Emir KARAKURT.DESKTOP-ACEKEUP\source\repos\EKARAKURT\EKARAKURT\obj\Debug\EKARAKURT.frmÜrünEkle.resources
