@@ -13,3 +13,5 @@ C:\Users\Emir KARAKURT.DESKTOP-ACEKEUP\source\repos\EKARAKURT\EKARAKURT\obj\Debu
 C:\Users\Emir KARAKURT.DESKTOP-ACEKEUP\source\repos\EKARAKURT\EKARAKURT\obj\Debug\EKARAKURT.frmKategori.resources
 C:\Users\Emir KARAKURT.DESKTOP-ACEKEUP\source\repos\EKARAKURT\EKARAKURT\obj\Debug\EKARAKURT.frmMarka.resources
 C:\Users\Emir KARAKURT.DESKTOP-ACEKEUP\source\repos\EKARAKURT\EKARAKURT\obj\Debug\EKARAKURT.frmÜrünEkle.resources
+C:\Users\Emir KARAKURT.DESKTOP-ACEKEUP\source\repos\EKARAKURT\EKARAKURT\obj\Debug\EKARAKURT.frmÜrünListele.resources
+C:\Users\Emir KARAKURT.DESKTOP-ACEKEUP\source\repos\EKARAKURT\EKARAKURT\obj\Debug\EKARAKURT.frmSatışListele.resources
